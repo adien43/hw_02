@@ -7,4 +7,6 @@ The term temperature anomaly means a departure from a reference value or long-te
 ![Contiguous US Annual Precipitation Anomalies](Figure_2.png)
 Here we can see increases for Global temperature and US percipitation anomalies from the year 1950 to 2016. As average temperatures at the Earth's surface rise, more evaporation occurs, which, in turn, increases overall precipitation. Therefore, a warming climate is expected to increase precipitation in many areas. 
 [Link to US percipitation anomalies](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
+&NewLine;
+&NewLine;
 https://github.com/mikeizbicki/cmc-csci040/blob/2020fall/hw_02/README.md
